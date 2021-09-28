@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" outputtype="undefined" theme="unified" themeAccentColor="0x4893B8">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnanbnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" outputtype="undefined" theme="unified" themeAccentColor="0x4893B8">
   <layouts>
-    <layout name="npnxnanbsnfns00001100101" font="Lato" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100101" font="Lato" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npxnabnsnfns00001100101" font="Lato" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npnxnanbnsnfns00001100101" font="Lato" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100100" font="Lato" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npxnanbnsnfns00001100101" font="Lato" controllayout="npxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbsnfns00001100101" font="Lato" controllayout="npnxnanbsnfns00001100101" colorscheme="npxnanbnsnfns00001100101" string_table="npxnanbnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100101" font="Lato" controllayout="pxabnsnfns00001100101" colorscheme="npxnanbnsnfns00001100101" string_table="npxnanbnsnfns00001100101" />
+    <layout name="npxnabnsnfns00001100101" font="Lato" controllayout="npxnabnsnfns00001100101" colorscheme="npxnanbnsnfns00001100101" string_table="npxnanbnsnfns00001100101" />
+    <layout name="npnxnanbnsnfns00001100101" font="Lato" controllayout="npnxnanbnsnfns00001100101" colorscheme="npxnanbnsnfns00001100101" string_table="npxnanbnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100100" font="Lato" controllayout="pxabnsnfns00001100100" colorscheme="npxnanbnsnfns00001100101" string_table="npxnanbnsnfns00001100101" />
+    <layout name="npxnanbnsnfns00001100101" font="Lato" controllayout="npxnanbnsnfns00001100101" colorscheme="npxnanbnsnfns00001100101" string_table="npxnanbnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -232,7 +232,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00001100101">
+    <colorscheme name="npxnanbnsnfns00001100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1410,7 +1410,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00001100101">
+    <string_table name="npxnanbnsnfns00001100101">
       <string id="three_image_items">ítems</string>
       <string id="three_image_viewed">vistos</string>
       <string id="three_image_of">de</string>
@@ -1516,8 +1516,8 @@
       <links>
         <slidelink slideid="_player.6hmFqtJIPID" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6hmFqtJIPID.6X6RT1DeKaz" displaytext="Calculator" expand="false" type="slide" />
             <slidelink slideid="_player.6hmFqtJIPID.6ZVR6SGw9lD" displaytext="Time Calculator " expand="false" type="slide" />
+            <slidelink slideid="_player.6hmFqtJIPID.6X6RT1DeKaz" displaytext="Calculator" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
