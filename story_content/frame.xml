@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="TimeCalculator-V4" />
+              <option name="title_text" value="TimeCalculator-V5" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1499,7 +1499,6 @@
           <links>
             <slidelink slideid="_player.6hmFqtJIPID.6ZVR6SGw9lD" displaytext="Time Calculator " expand="false" type="slide" />
             <slidelink slideid="_player.6hmFqtJIPID.6X6RT1DeKaz" displaytext="Calculator" expand="false" type="slide" />
-            <slidelink slideid="_player.6hmFqtJIPID.6JhlKlkopbf" displaytext="OverTime" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
